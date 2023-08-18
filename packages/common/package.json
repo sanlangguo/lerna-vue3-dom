@@ -1,0 +1,24 @@
+{
+  "name": "@mono-repo/common",
+  "version": "0.0.0",
+  "private": true,
+  "description": "> TODO: description",
+  "author": "sanlangguo",
+  "homepage": "",
+  "license": "ISC",
+  "main": "index",
+  "directories": {
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://gitlab.yintech.net/rjhy/frontend/dashboard/ym-data-office.git"
+  },
+  "scripts": {
+  },
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
